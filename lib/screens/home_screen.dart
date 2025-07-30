@@ -16,7 +16,7 @@ class _HomeScreenState extends State<HomeScreen> {
           appBar: AppBar(
             backgroundColor: Colors.green[400],
             foregroundColor: Colors.white,
-            title: Text('Title'),
+            title: Text('Title App'),
             centerTitle: true,
           ),
           body:
